@@ -34,8 +34,10 @@ Consegue ter acesso ao número de depósitos de patentes no Brasil
 ## 1. Saída: ( Produto final )
 1.1  A resposta para a pergunta.
 	- Indicar quais as próximas tendencias de inovação no Brasil
+	
 1.2 Formato da entrega
 	- Clusterização com um conjunto de palavras para responder a pergunta
+
 1.3 Local da entrega
 	- Imagem PNG, App Streamlit,
 
