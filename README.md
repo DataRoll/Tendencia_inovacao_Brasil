@@ -69,3 +69,4 @@ Fazendo o download dos resumos na scopus
 - Jupyter Notebook
 - Google Colab
 - leitor txt
+- VOSviewer
