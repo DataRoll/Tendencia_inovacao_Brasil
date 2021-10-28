@@ -1,16 +1,16 @@
 # Tendencia_inovacao_Brasil
 Encontrar quais são são as próximas tendencias de inovação no Brasil?
 
-1. Pergunta de Negócio
+## 1. Pergunta de Negócio
 Quais são as próximas tendencias de inovação no Brasil?
 
-2. Entendimento de Negócio
+## 2. Entendimento de Negócio
 -Qual palavra dessa frase, ou combinações de palavras dessa frase, ou ainda sinônimos são mais cientificamente relevantes nessa pergunta?
 - Buscar artigos em Pt e inglês escritos no Brasil
 - Palavra chave → Inovação, tendências, predição, patentes, Innovation, forecast, prediction, trend, indicator, prognosis
 - Coletar a quantidade de artigos/ano 
 
-3. Coleta de dados
+## 3. Coleta de dados
 
 Publicações cientificas
 Indicador de patentes, científicos e indicadores econômicos
@@ -31,7 +31,7 @@ Consegue ter acesso ao número de depósitos de patentes no Brasil
 
 # Planejamento da solução
 
-1. Saída: ( Produto final )
+## 1. Saída: ( Produto final )
 1.1  A resposta para a pergunta.
 	- Indicar quais as próximas tendencias de inovação no Brasil
 1.2 Formato da entrega
@@ -40,7 +40,7 @@ Consegue ter acesso ao número de depósitos de patentes no Brasil
 	- Imagem PNG, App Streamlit,
 
 
-2. Processo ( Passo a Passo)
+## 2. Processo ( Passo a Passo)
 1° Raspagem
 - Fazer uma raspagem em revista cientificas com as palavras chaves
 - Fazer um filtro com para apenas artigo, localização (Brazil)  e entre 2011 e 2020
@@ -55,7 +55,7 @@ Fazendo o download dos resumos na scopus
 - Fazer a clusterização no software VOSviewer
 
 
-3. Entrada ( Fonte de dados )
+## 3. Entrada ( Fonte de dados )
 3.1. Fonte de dados
 -Science direct (plataforma)
 -Scopus
