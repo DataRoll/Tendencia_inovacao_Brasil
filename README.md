@@ -1,5 +1,6 @@
 # Tendencia_inovacao_Brasil
 Encontrar quais são são as próximas tendencias de inovação no Brasil?
+
 1. Pergunta de Negócio
 Quais são as próximas tendencias de inovação no Brasil?
 
@@ -8,6 +9,7 @@ Quais são as próximas tendencias de inovação no Brasil?
 - Buscar artigos em Pt e inglês escritos no Brasil
 - Palavra chave → Inovação, tendências, predição, patentes, Innovation, forecast, prediction, trend, indicator, prognosis
 - Coletar a quantidade de artigos/ano 
+
 3. Coleta de dados
 
 Publicações cientificas
@@ -27,7 +29,7 @@ Consegue ter acesso ao número de depósitos de patentes no Brasil
 -WIPO análogo do INPI só que global
 
 
-Planejamento da solução
+# Planejamento da solução
 
 1. Saída: ( Produto final )
 1.1  A resposta para a pergunta.
