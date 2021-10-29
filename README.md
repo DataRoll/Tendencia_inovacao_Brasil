@@ -14,7 +14,7 @@ Quais são as próximas tendencias de inovação no Brasil?
 
 Publicações cientificas
 Indicador de patentes, científicos e indicadores econômicos
-pegar algumas palavras chave
+pegar palavras chave
 Fazer buscas em periódicos científicos
 
 Onde procurar? 
